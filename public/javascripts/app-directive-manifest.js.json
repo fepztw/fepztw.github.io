@@ -1,0 +1,16 @@
+[
+  "angular-sanitize/angular-sanitize.min.js",
+  "angular-ga/ga.js",
+  "angular-templates/angular-template-modal.js",
+  "angular-templates/angular-template-tooltip.js",
+  "angular-bootstrap/src/transition/transition.js",
+  "ui-bootstrap-modal/index.js",
+  "angular-bootstrap/src/position/position.js",
+  "angular-bootstrap/src/bindHtml/bindHtml.js",
+  "angular-bootstrap/src/tooltip/tooltip.js",
+  "angular-bootstrap/src/dropdown/dropdown.js",
+  "ui-bootstrap-selected.js",
+  "app-service.js",
+  "angular-animate/angular-animate.min.js",
+  "app-directive.js"
+]
